@@ -61,3 +61,9 @@ Research might also
 | NRG  | Energy  |
 | STF  | Stuff   |
 |      |         |
+
+
+## Lore
+There should be a lore/myth component to the game, which players are also contributing to through gameplay.
+
+Using archetypal templates such as the Osiris death/rebirth etc.
